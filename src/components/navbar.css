@@ -1,0 +1,28 @@
+.search-bar {
+  width: 300px;
+  
+}
+.search-bar:focus {
+  outline: none !important;
+  
+}
+nav,
+.modal-content {
+  background-color: #9933CC;
+  background-image: linear-gradient(147deg, #9933CC 0%, #2c3e50 74%);
+}
+
+.btn-gradient:hover {
+  background-color: #3f0d12;
+  background-image: linear-gradient(315deg, #3f0d12 0%, #0d47a1
+  74%);
+}
+.star {
+  color: #0d47a1
+  ;
+  font-size: 24px;
+}
+.modal-text {
+  color: #1C2331
+  ;
+}
